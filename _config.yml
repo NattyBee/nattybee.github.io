@@ -5,9 +5,9 @@ motto: "Daisy, Daisy, give me your answer please." # give your site a motto
 email: "nbell@wayne.edu" # put your email address in here; optional
 # edit your site description; keep it brief
 description: "This is a website."
-url: http://nattybee.github.io # replace [username] with your github username (no brackets)
+url: http://nattybee.github.io/ # replace [username] with your github username (no brackets)
 github_username: nattybee # replace with your github username
-twitter_username: @plasmapool
+twitter_username: plasmapool
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # Build settings
