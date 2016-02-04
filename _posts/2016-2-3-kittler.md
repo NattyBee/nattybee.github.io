@@ -1,3 +1,9 @@
+---
+title: On Kittler (sort of) and Ants
+layout: post
+categories:
+---
+
 I want to talk about Guyau. I want to ask what exactly his position is on consciousness and the phonograph/brain memory analogy. If I could ask this, and get a suitable answer, then I feel like this might be the foundation for which I would be able to ask Kittler, who definitely doesn’t agree with Guyau, what his position is on consciousness and the phonograph/brain memory analogy. Which is all a coy way to say that I am attempting to “specify what I don’t understand.” 
 Here’s a quote that got my attention: “A memory consists in the awareness, first, of the diminished intensity of an impression, second, of its increased ease, and third, of the connections it entertains with other impressions. Just as a trained eye can see the difference between a copy and the original, we learn to distinguish memories from impressions and are thus able to recognize a memory even before it has been located in time and space.”
 Is Gutau saying that human memory is similar to phonograpic memory except that we’re aware of the fact that we are seeing a copy of the master whereas a phonograph doesn’t give any damns if it’s the master or the copy? That doesn’t seem right since it seems a bit obvious, no? Or is it? The phonograph emits a different noise with the poor copy, scratches and pops, than it does with the master. What if our “consciousness,” our ability to differentiate master from copy is just an illusion and all we’re doing is reacting to the stimuli of copies with different “sounds” than we do to other copies? 
